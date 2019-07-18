@@ -1,5 +1,8 @@
 # BezierBall
-Little Game made for Computer Graphics discipline at Federal University of Rio de Janeiro (UFRJ)
+Bezier Ball is a little game made as the final project of UFRJ Computer Science computer graphics discipline.
 
-This is just the unity project, codes, scripts and assets.
-If you want you can download the game here: https://www.dropbox.com/sh/psnu5lpg0pz2i2i/AAD1H1O9YehBBuMyYJIv4WOha?dl=0
+The objective is to make a path using quadratic bezier curves, adding how many you need and changing it's extremities or it's control points. When ready, you can press the Button "Bezier Ball!" to watch a ball run the path you made.
+
+There is a free play mode, where you can play and create curves freely, and the time attack mode, where you need to create a path that go through all the rings as fast as possible, and then make the ball pass inside each one of them without touching it's borders.
+
+To play, just download the zipped folder and execute the .exe file.
